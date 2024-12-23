@@ -25,7 +25,7 @@ variable "aws_region" {
 variable "email_address" {
   description = "this is your email address"
   type        = string
-  default     = "devopsnandahein28@gmail.com"
+  default     = "example@gmail.com"
 }
 
 variable "stage_name" {
@@ -97,7 +97,7 @@ variable "sns_custom_policy_name" {
 variable "aws_account_id" {
   description = "this is your aws account id"
   type        = string
-  default     = "112281322679"
+  default     = "13428132234"
 }
 
 
