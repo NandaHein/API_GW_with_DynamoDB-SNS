@@ -1,0 +1,9 @@
+.gitignore.swp
+.terraform/
+.terraform/*
+terraform.tfstate.d/
+terraform.tfstate*
+.terraform.tfstate.lock.info
+*.pem
+
+main.tf.bk
